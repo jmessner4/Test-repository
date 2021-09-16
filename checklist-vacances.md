@@ -6,3 +6,7 @@ lunettes
 "sac à dos"
 itineraire
 "reservation hotel"
+"lieux à visiter"
+restaurants
+plage
+musee
